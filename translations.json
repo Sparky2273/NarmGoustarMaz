@@ -1,0 +1,283 @@
+{
+  "en": {
+    "title": {
+      "main": "Narm Goustar Maz - University Management Solutions",
+      "notAvailable": "Narm Goustar Maz - Not Available",
+      "about": "Narm Goustar Maz - About",
+      "contact": "Narm Goustar Maz - Contact",
+      "products": "Narm Goustar Maz - Products",
+      "services": "Narm Goustar Maz - Services"
+    },
+    "header": {
+      "logo": "Narm Goustar Maz",
+      "nav": {
+        "home": "Home",
+        "products": "Products",
+        "services": "Services",
+        "about": "About",
+        "contact": "Contact"
+      },
+      "languageToggle": {
+        "english": "English",
+        "persian": "Persian"
+      }
+    },
+    "home": {
+      "title": "Simplify University Management",
+      "description": "Our software solution is designed to make university management easier and more efficient. Get started today!",
+      "getStarted": "Get Started"
+    },
+    "hero": {
+      "title": "Revolutionizing University Management",
+      "subtitle": "Narm Goustar Maz provides cutting-edge software solutions to streamline your university's operations.",
+      "learnMore": "Learn More"
+    },
+    "features": {
+      "studentManagement": {
+        "title": "Student Management",
+        "description": "Manage student records, admissions, and academic progress with ease."
+      },
+      "scheduling": {
+        "title": "Scheduling and Facilities",
+        "description": "Optimize class schedules, manage campus facilities, and improve resource utilization."
+      },
+      "analytics": {
+        "title": "Analytics and Reporting",
+        "description": "Gain valuable insights with our powerful data analytics and reporting tools."
+      }
+    },
+    "footer": {
+      "subscribe": {
+        "title": "Subscribe to our Newsletter",
+        "description": "Get the latest news and updates from Narm Goustar Maz",
+        "emailSubmit": "Subscribe",
+        "emailPlaceholder": "Enter your email"
+      },
+      "contact": {
+        "title": "NarmGoustarMaz@gmail.com",
+        "description": "© 2024 Narm Goustar Maz. All rights reserved."
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "form": {
+        "name": "Full Name:",
+        "email": "Email Address:",
+        "phone": "Phone Number:",
+        "university": "University:",
+        "department": "Department:",
+        "message": "Message:",
+        "submit": "Submit"
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "intro": {
+        "title": "About Narm Goustar Maz",
+        "description": "Narm Goustar Maz is a leading provider of university management software solutions. Founded in 2024, our company is dedicated to streamlining and optimizing the operations of educational institutions through innovative technology."
+      },
+      "mission": {
+        "title": "Our Mission",
+        "description": "Our mission is to empower universities with cutting-edge solutions that enhance efficiency, productivity, and student success. We strive to revolutionize the way educational institutions manage their academic and administrative processes."
+      },
+      "values": {
+        "title": "Our Core Values",
+        "innovation": {
+          "title": "Innovation",
+          "description": "We continuously push the boundaries of technology to deliver groundbreaking solutions that drive progress in the education sector."
+        },
+        "excellence": {
+          "title": "Excellence",
+          "description": "We strive for excellence in everything we do, from our products and services to our customer support and business practices."
+        },
+        "collaboration": {
+          "title": "Collaboration",
+          "description": "We believe in fostering strong partnerships with our clients, understanding their unique needs, and working together to achieve their goals."
+        }
+      },
+      "contact": {
+        "title": "Contact Info",
+        "email": {
+          "title": "Email",
+          "address": "NarmGoustarMaz@gmail.com"
+        },
+        "phone": {
+          "title": "Phone",
+          "number": "+1234567890"
+        },
+        "location": {
+          "title": "Address",
+          "address": "Iran, Mazandaran, Babol"
+        }
+      }
+      },
+      "team": {
+        "title": "Our Leadership Team",
+        "description": "Meet the experienced professionals who drive Narm Goustar Maz's vision and success:",
+
+        "memberName1": "Mehdi Hashemi",
+        "memberPosition1": "Chief Executive Officer",
+
+        "memberName2": "Ali Mirza",
+        "memberPosition2": "Main Member of the Board of Directors"
+
+      },
+      "notAvailable": {
+        "title": "This section is not available yet",
+        "description": "We're sorry, but the page or section you're trying to access is currently under development. Please check back later."
+      },
+      "contactHelp": {
+        "title": "Need help?",
+        "description": "If you need any help or have questions, please feel free to contact us."
+      },
+      "products": {
+        "title": "Our Products",
+        "product1": {
+          "title": "UniManage",
+          "description": "The BEST MANAGMENT Tool for Every Univercity",
+          "price": "$499.99 per Semester"
+      }
+    }
+  },
+  "fa": {
+    "title": {
+      "main": "نرم گستر ماز - راه حل‌های مدیریت دانشگاه",
+      "notAvailable": "نرم گستر ماز - در دسترس نیست",
+      "about": "نرم گستر ماز - درباره ما",
+      "contact": "نرم گستر ماز - تماس با ما",
+      "products": "نرم گستر ماز - محصولات ما",
+      "services": "نرم گستر ماز - سرویس ها"
+    },
+    "header": {
+      "logo": "نرم گستر ماز",
+      "nav": {
+        "home": "خانه",
+        "products": "محصولات ما",
+        "services": "سرویس‌ها",
+        "about": "درباره ما",
+        "contact": "تماس با ما"
+      },
+      "languageToggle": {
+        "english": "انگلیسی",
+        "persian": "فارسی"
+      }
+    },
+    "home": {
+      "title": "راه حل مدیریت دانشگاه",
+      "description": "راه حل نرم افزاری ما برای راحتی و بهینه‌ترین مدیریت دانشگاه طراحی شده است. از این رو شروع کنید!",
+      "getStarted": "شروع کنید"
+    },
+    "hero": {
+      "title": "مدیریت دانشگاه را انقلاب می‌دهیم",
+      "subtitle": "نرم گستر ماز راه حل‌های نرم افزاری پیشرفته را برای افزایش کارایی عملیات دانشگاه خود ارائه می‌دهد.",
+      "learnMore": "بیشتر بدانید"
+    },
+    "features": {
+      "studentManagement": {
+        "title": "مدیریت دانشجویان",
+        "description": "مدیریت سجل‌های دانشجویی، پذیرش و پیشرفت آموزشی را با آسانی انجام دهید."
+      },
+      "scheduling": {
+        "title": "برنامه‌ریزی و امکانات",
+        "description": "برنامه‌ریزی کلاس‌ها را بهبود دهید، مدیریت امکانات دانشگاه را انجام دهید و استفاده از منابع را افزایش دهید."
+      },
+      "analytics": {
+        "title": "آنالیز و گزارش‌دهی",
+        "description": "با ابزارهای آنالیز و گزارش‌دهی داده قدرتمند ما اطلاعات مفیدی را به دست آورید."
+      }
+    },
+    "footer": {
+      "subscribe": {
+        "title": "عضو شدن در خبرنامه ما",
+        "description": "آخرین اخبار و به روز رسانی ها را از نرم گستر ماز دریافت کنید",
+        "emailSubmit": "عضویت",
+        "emailPlaceholder": "ایمیل خود را وارد کنید"
+      },
+      "contact": {
+        "title": "NarmGoustarMaz@gmail.com",
+        "description": "© 2024 نرم گستر ماز. همه‌ی حقوق محفوظ است."
+      }
+    },
+    "contact": {
+      "title": "تماس با ما",
+      "form": {
+        "name": "نام و نام خانوادگی:",
+        "email": "آدرس ایمیل:",
+        "phone": "شماره تلفن:",
+        "university": "دانشگاه:",
+        "department": "رشته:",
+        "message": "پیام:",
+        "submit": "ارسال"
+      }
+    },
+    "about": {
+      "title": "درباره ما",
+      "intro": {
+        "title": "درباره نرم گستر ماز",
+        "description": "نرم گستر ماز یکی از پیشروان راه حل‌های نرم افزاری مدیریت دانشگاه است. در سال 2024 تاسیس شده، شرکت ما به سرعت و بهینه‌سازی عملیات اموزشی و آموزشی سازمان‌های آموزشی با استفاده از فناوری نوین متعهد است."
+      },
+      "mission": {
+        "title": "ماموریت ما",
+        "description": "ماموریت ما تمکین دانشگاه‌ها با راه‌حل‌های پیشرفته است که کارایی، بهره‌وری و کامیابی دانشجویان را افزایش دهد. ما برای انقلاب دانشگاه‌ها در مدیریت فرایندهای آموزشی و اداری خود سعی می‌کنیم."
+      },
+      "values": {
+        "title": "ارزش‌های مهیار ما",
+        "innovation": {
+          "title": "ابداع",
+          "description": "ما همواره از سرنوشت مهارت‌های فنی سعی می‌کنیم تا راه‌حل‌های نوین و برترینه را ارائه دهیم که پیشرفت در حوزه آموزش را حمل ببرد."
+        },
+        "excellence": {
+          "title": "عالی‌گرایی",
+          "description": "ما برای عالی‌گرایی در همه جانبه‌های فعالیت‌های خود از کالاها و خدمات تا پشتیبانی مشتریان و روش‌های کسب‌وکار می‌سعیم."
+        },
+        "collaboration": {
+          "title": "همکاری",
+          "description": "ما بر اساس توسعه روابط قوی با مشتریان خود استقرار می‌کنیم، نیازهای منحصر به فردی آنها را درک می‌کنیم و برای رسیدن به اهدافشان همکاری می‌کنیم."
+        }
+      },
+      "contact": {
+        "title": "اطلاعات تماس",
+        "email": {
+          "title": "ایمیل",
+          "address": "NarmGoustarMaz@gmail.com"
+        },
+        "phone": {
+          "title": "تلفن",
+          "number": "+1234567890"
+        },
+        "location": {
+          "title": "آدرس",
+          "address": "ایران، مازندران، بابل"
+        }
+      }
+      },
+      "team": {
+        "title": "تیم مدیریت ما",
+        "description": "با آشنایی با تیم مدیریتی تجربیات بالا که انرژی و کارآمدی نرم گستر ماز را پیش می برند:",
+
+        "memberName1": "مهدی هاشمی",
+        "memberPosition1": "مدیرعامل",
+
+        "memberName2": "علی میرزا",
+        "memberPosition2": "عضو اصلی هیئت مدیره"
+
+      },
+
+    "notAvailable": {
+      "title": "این بخش هنوز در دسترس نیست",
+      "description": "متأسفیم، اما صفحه یا بخشی که می‌خواهید به آن دسترسی پیدا کنید در حال حاضر در حال توسعه است. لطفاً بعداً دوباره بررسی کنید."
+    },
+    "contactHelp": {
+      "title": "کمک خواستن؟",
+      "description": "اگر به کمک نیاز دارید یا سوالی دارید، لطفا با ما تماس بگیرید."
+    },
+    "products": {
+      "title": "محصولات ما",
+      "product1": {
+        "title": "UniManage (یونی منیج)",
+        "description": "بهترین ابزار مدیریتی برای هر دانشگاه",
+        "price": "$499.99 برای هر ترم"
+    }
+  }
+  }
+}
